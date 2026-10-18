@@ -1,0 +1,9 @@
+
+{
+"name":"JARVIS Mk-1",
+"short_name":"JARVIS",
+"display":"standalone",
+"background_color":"#030712",
+"theme_color":"#00d4ff",
+"start_url":"./"
+}
