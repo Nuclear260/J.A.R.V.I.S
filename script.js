@@ -3,7 +3,7 @@ const chat=document.getElementById("chat");
 const input=document.getElementById("prompt");
 const send=document.getElementById("send");
 
-const API_URL="COLOQUE_AQUI_SEU_WORKER";
+const API_URL="jarvis.play-craft8080.workers.dev";
 
 function addMessage(author,text){
 
